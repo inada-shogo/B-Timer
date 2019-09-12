@@ -1,0 +1,23 @@
+/**/
+body {
+  background: black;
+}
+
+
+.teamright{
+
+  text-align: center;
+
+  color:red;
+}
+
+.teamleft{
+
+   text-align: center;
+   margin-left: auto;
+
+ color: red;
+  
+ 
+
+}
