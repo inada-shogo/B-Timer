@@ -4,20 +4,28 @@ body {
 }
 
 /*Commit Test*/
-.teamright{
+.teamleft{
 
   text-align: center;
 
   color:red;
 }
 
-.teamleft{
+.timer{
+
+  text-align: center;
+  margin-right: 10px auto;
+  margin-left: 50px auto;
+  float: center;
+
+  color: orange;
+}
+
+.teamright{
 
    text-align: center;
    margin-left: auto;
     float:right;
  color: red;
   
- 
-
 }
